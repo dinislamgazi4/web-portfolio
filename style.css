@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-highlight{
+    
+    color:orange ;
+}
+.half-width{
+    width: 40%;
+   float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 63%;
+    margin-top: 35px;
+    margin-left: 160px;
+    
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration:none;
+   background-image:linear-gradient(rgb(255, 112, 56),rgb(218, 75, 50));
+    font: size 15px; 
+    padding: 10px 20px;
+    border-radius:5px;
+    color: black;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+.hossain{
+    size: 50px;
+}
+
+p{
+    color: rgb(48, 44, 44);
+    
+}
+
+.link-btn{
+    text-decoration:none;
+   background-color: aqua;
+    font: size 15px; 
+    padding: 10px 20px;
+    border-radius:5px;
+    color: black;
+    font-weight: 700;
+}
+.dream-area{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 15px 20px 40px rgb(116, 113, 113) ;
+    border-radius: 5px;
+    height: 75%;
+    
+    
+    
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 10px;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,tomato,lightsalmon);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,aqua);
+    border-image-slice: 1;
+    
+}
+footer p{
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+    
+}
